@@ -1,4 +1,4 @@
-## A/B TEST PROJECT [here](https://github.com/moshingliu1109/AB_TEST)
+## A/B TEST PROJECT [here](https://github.com/moshingliu1109/AB_TEST).
 
 • Conducted hypothesis testing to evaluate the key metric of the instacart shopper hiring funnel, validating the effectiveness of initiating background checks earlier.
 
